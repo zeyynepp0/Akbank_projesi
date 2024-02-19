@@ -1,7 +1,1 @@
-1984,George,2000,184
-1984,George,2000,184
-ALÝ,George,2000,184
-Hayvan Cýftlýgý,Jong,2004,75
-Sefiller,Arthur,1700,457
-Hello ,Anonim,2012,547
-Araba Sevdasi,Recaizede Mahmud Efendi, 1898, 272
+
