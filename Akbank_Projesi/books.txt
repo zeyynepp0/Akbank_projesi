@@ -1,0 +1,51 @@
+Robinson Crusoe, Daniel Defoe, 1719,530
+Jane Eyre, Charlotte Bronte, 1847,632
+David Copperfield, Charles Dickens, 1850,837
+The Scarlet Letter, Nathaniel Hawthorne, 1850,212
+Moby-Dick, Herman Melville, 1851,545
+The Moonstone, Wilkie Collins, 1868, 596
+Little Women, Louisa May Alcott, 1868,176
+Middlemarch, George Eliot, 1871,688
+The Way We Live Now, Anthony Trollope, 1875,494
+Hadrian the Seventh, Frederick Rolfe, 1904,350
+The Wind in the Willows, Kenneth Grahame, 1908,224
+The History of Mr Polly, HG Wells, 1910,272
+Zuleika Dobson, Max Beerbohm, 1911,195
+The Good Soldier, Ford Madox Ford, 1915,282
+The Thirty-Nine Steps, John Buchan, 1915,107
+The Rainbow, DH Lawrence, 1915,656
+The Age of Innocence, Edith Wharton, 1920,373
+Ulysses, James Joyce, 1922,980
+Babbitt, Sinclair Lewis, 1922,263
+A Passage to India, EM Forster, 1924,428
+Gentlemen Prefer Blondes, Anita Loos, 1925,272
+Mrs Dalloway, Virginia Woolf, 1925,224
+The Great Gatsby, F Scott Fitzgerald, 1925,180
+Lolly Willowes, Sylvia Townsend Warner, 1926,301
+The Sun Also Rises, Ernest Hemingway, 1926,256
+The Maltese Falcon, Dashiell Hammett, 1929,210
+As I Lay Dying, William Faulkner, 1930,288
+Brave New World, Aldous Huxley, 1932,272
+Cold Comfort Farm, Stella Gibbons, 1932,209
+Nineteen Nineteen, John Dos Passos, 1932,380
+Tropic of Cancer, Henry Miller, 1934,318
+Murphy, Samuel Beckett, 1938,192
+The Big Sleep, Raymond Chandler, 1939,240
+Party Going, Henry Green, 1939,176
+At Swim-Two-Birds, Flann O’Brien, 1939,224
+The Grapes of Wrath, John Steinbeck, 1939,544
+Joy in the Morning, PG Wodehouse, 1946,304
+All the King’s Men, Robert Penn Warren, 1946,661
+Under the Volcano, Malcolm Lowry, 1947,278
+The Heat of the Day, Elizabeth Bowen, 1948,384
+The End of the Affair, Graham Greene, 1951,192
+The Catcher in the Rye, JD Salinger, 1951,214
+The Adventures of Augie March, Saul Bellow, 1953,536
+Lord of the Flies, William Golding, 1954,315
+Lolita, Vladimir Nabokov, 1955,336
+On the Road, Jack Kerouac, 1957,320
+Voss, Patrick White, 1957,454
+To Kill a Mockingbird, Harper Lee, 1960,336
+The Prime of Miss Jean Brodie, Muriel Spark, 1960,176
+Catch-22, Joseph Heller, 1961,415
+The Beginning of Spring , Penelope Fitzgerald, 1988, 192
